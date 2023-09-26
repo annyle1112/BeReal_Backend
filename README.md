@@ -70,7 +70,7 @@ und in ihrem Code sind folgende PWA Funktionalitäten angelegt:
 
 - Nutzung auf dem Handy (ngrok)
 
-- (Hintergrundsynchronisation wurde implementiert)
+- Hintergrundsynchronisation wurde implementiert
 
 
 ## 4) Das Produktziel von BeReal 
@@ -117,6 +117,9 @@ Die App kann das Leben der UserInnen umso authentischer und echter zeigen um so 
   ![Screenshot (2650)](https://github.com/annyle1112/BeReal_Backend/assets/82587485/8d93913a-d782-452e-ae20-f6b42b34d9ff)
  ![Screenshot (2656)](https://github.com/annyle1112/BeReal_Backend/assets/82587485/fad04c3e-d548-42a3-b6a8-60c9371d8277)
 
+- Hintergrundsynchronisation
+  ![IMG-20230926-WA0048](https://github.com/annyle1112/BeReal_Backend/assets/82587485/5450ac14-09e5-4f5a-8462-531624e66ec1)
+
 - Indexed DB
   ![Screenshot (2645)](https://github.com/annyle1112/BeReal_Backend/assets/82587485/8aa5e0d4-91c2-40e0-9bda-ace1fc91abc2)
 
@@ -129,6 +132,17 @@ Die App kann das Leben der UserInnen umso authentischer und echter zeigen um so 
   ![Screenshot (2639)](https://github.com/annyle1112/BeReal_Backend/assets/82587485/ac749174-1a5d-4851-bb9e-40d2fafe4381)
   ![Screenshot (2640)](https://github.com/annyle1112/BeReal_Backend/assets/82587485/2b15dfc1-4d78-41e1-b966-02857db76d31)
   ![Screenshot (2654)](https://github.com/annyle1112/BeReal_Backend/assets/82587485/3be4a8c7-b9e6-43c6-98fc-878d8904ae86)
+
+  - Handynutzung
+    ![IMG-20230926-WA0043](https://github.com/annyle1112/BeReal_Backend/assets/82587485/c1a46c2d-77e3-495b-8ab5-8c1274353362)
+    ![IMG-20230926-WA0044](https://github.com/annyle1112/BeReal_Backend/assets/82587485/51775b96-e0e2-4735-ad95-520ceaa8e414)
+![IMG-20230926-WA0045](https://github.com/annyle1112/BeReal_Backend/assets/82587485/92747b23-c79f-4236-aebf-a5e4e13b786b)
+![IMG-20230926-WA0046](https://github.com/annyle1112/BeReal_Backend/assets/82587485/e0bf9526-29e2-4824-8c44-0e73e2512c3a)
+![IMG-20230926-WA0047](https://github.com/annyle1112/BeReal_Backend/assets/82587485/53654547-1aaf-46f0-a733-d0e6feea0c41)
+![IMG-20230926-WA0048](https://github.com/annyle1112/BeReal_Backend/assets/82587485/1c008cb0-e5d5-48ed-b3b3-7cf95632d4b6)
+![IMG-20230926-WA0049](https://github.com/annyle1112/BeReal_Backend/assets/82587485/e1e9516a-e1bf-4745-aba7-430136b29754)
+
+    
 
 
 
