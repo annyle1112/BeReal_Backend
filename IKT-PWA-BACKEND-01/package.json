@@ -1,0 +1,38 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend BeReal",
+  "main": "server.js",
+  "scripts": {
+    "watch": "nodemon ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "web-push": "web-push"
+  },
+  "keywords": [
+    "REST-API",
+    "rest",
+    "api",
+    "backend",
+    "mongodb",
+    "mongoose"
+
+  ],
+  "author": "Anny Le",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "gridfs-stream": "^1.1.1",
+    "mongodb": "^5.9.0",
+    "mongoose": "^7.5.3",
+    "multer": "^1.4.4",
+    "multer-gridfs-storage": "^5.0.2",
+    "web-push": "^3.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
